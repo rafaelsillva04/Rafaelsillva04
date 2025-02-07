@@ -1,4 +1,18 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00A3F7&width=435&lines=Be+Welcome!+++%3A)" alt="Typing SVG" /></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A3F7&height=120&section=header"/>
+
+
+<div style="text-align: center;">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4dbff9&width=435&lines=Be+Welcome!+++%3A)" 
+        alt="Typing SVG" />
+    </a>
+</div></br></br>
+
+
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelsillva04&hide_title=false&hide_rank=false&show_icons=true&count_private=true&hide_border=true&title_color=4dbff9&icon_color=00A3F7&text_color=FFF&bg_color=00000000" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsillva04&locale=en&hide_title=false&layout=compact&hide_border=true&title_color=4dbff9&text_color=FFF&bg_color=00000000" height="150" alt="languages graph"  />
+</div></br>
 
 <h2>💻 Tech Stack</h2>
 <div class="tech-icons">
@@ -33,3 +47,5 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 5px">
     </a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A3F7&height=120&section=footer"/>
