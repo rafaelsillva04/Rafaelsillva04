@@ -1,17 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A3F7&height=120&section=header"/>
 
-
 <div style="text-align: center;">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4dbff9&width=435&lines=Be+Welcome!+++%3A)" 
-        alt="Typing SVG" />
+    <a href="https://git.io/typing-svg" >
+        <img src="https://readme-typing-svg.herokuapp.com/?color=00A3F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Rafael+Silva;I+STUDY+ANALYSIS+AND+SYSTEMS+DEVELOPMENT;Be+Welcome!+:%29&pause=1500" 
+        alt="Typing SVG">
     </a>
-</div></br></br>
+</div></br>
 
-
-<div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelsillva04&hide_title=false&hide_rank=false&show_icons=true&count_private=true&hide_border=true&title_color=4dbff9&icon_color=00A3F7&text_color=FFF&bg_color=00000000" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsillva04&locale=en&hide_title=false&layout=compact&hide_border=true&title_color=4dbff9&text_color=FFF&bg_color=00000000" height="150" alt="languages graph"  />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelsillva04&show_icons=true&count_private=true&hide_border=true&title_color=00A3F7&icon_color=00A3F7&text_color=ffff&bg_color=0d1117" alt="Rafael Silva github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsillva04&layout=compact&hide_border=true&title_color=00A3F7&text_color=ffff&bg_color=0d1117" />
 </div></br>
 
 <h2>💻 Tech Stack</h2>
@@ -47,5 +45,10 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 5px">
     </a>
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafaelsillva04}/count.svg" /></p> 
+<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A3F7&height=120&section=footer"/>
